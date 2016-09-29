@@ -621,6 +621,18 @@ figure.effect-jazz a {
     color: #15bcc5;
     font-size: 3em;
 }
+.ser-top.conact span.glyphicon {
+	font-size: 4em;
+}
+.ser-top.contact span{
+    /*--W3layouts--*/
+    /*-Agileits-*/
+    color: #15bcc5;
+    font-size: 1.4em;
+} 
+.ser-top.contact span.glyphicon {
+	font-size: 4em;
+}
 /*--test--*/
 .test {
     padding: 5em 0;
